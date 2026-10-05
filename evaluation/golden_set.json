@@ -1,0 +1,27 @@
+[
+  {
+    "pregunta": "¿En qué plazo deben los adultos del establecimiento denunciar un delito del que tomen conocimiento?",
+    "documento_id_esperado": "8617-7",
+    "namespace": "liceo-sara-blinder-dargoltz"
+  },
+  {
+    "pregunta": "¿Qué consecuencia disciplinaria tienen los atrasos reiterados sin justificación?",
+    "documento_id_esperado": "8617-7",
+    "namespace": "liceo-sara-blinder-dargoltz"
+  },
+  {
+    "pregunta": "¿Existe un protocolo específico sobre el uso de celulares y dispositivos móviles dentro del colegio?",
+    "documento_id_esperado": "8617-7",
+    "namespace": "liceo-sara-blinder-dargoltz"
+  },
+  {
+    "pregunta": "¿Cuál es el conducto regular para presentar un reclamo o una sugerencia?",
+    "documento_id_esperado": "10559-7",
+    "namespace": "escuela-bernardo-leighton-guzman"
+  },
+  {
+    "pregunta": "¿En qué plazo puede un estudiante apelar una medida de suspensión?",
+    "documento_id_esperado": "10559-7",
+    "namespace": "escuela-bernardo-leighton-guzman"
+  }
+]

@@ -1,0 +1,14 @@
+python-dotenv
+pydantic
+langchain
+langchain-core
+langchain-text-splitters
+langchain-classic
+langchain-community
+langchain-google-genai
+langchain-pinecone>=0.2.0,<0.3.0
+pinecone
+numpy>=2.1.0
+pymupdf
+tiktoken
+rank-bm25
